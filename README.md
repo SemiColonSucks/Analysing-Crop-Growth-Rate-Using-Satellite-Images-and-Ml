@@ -1,0 +1,2 @@
+# Analysing-Crop-Growth-Rate-Using-Satellite-Images-and-Ml
+Farmers know which crops suit their region, but crop performance varies even within the same village due to soil, water, and micro-climate differences. This project uses satellite data to analyze field-level crop growth behaviour using vegetation indices and time-series features, enabling objective comparison and hyper-local decision support.
